@@ -1,19 +1,5 @@
-# test
+# Test-task
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## На Javascript (можно истользовать фреймворки Vue, Express) сделать страницу, на которой отображается и обновляется в режиме реального времени, по запросу из текстового поля список брендов из поисковой выдачи товаров с сайта https://www.wildberries.ru/. Выделить цветом бренд, который введен в текстовом поле, если он присутствует в выдачи.
+Пример страницы по ссылке:
+https://drive.google.com/file/d/1aQPNfNEZ-Fbo_frDAM6W0fkRS-nBDImz/view?usp=drivesdk
